@@ -1,0 +1,16 @@
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\Recursividade.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\Recursividade.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\Recursividade.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\Recursividade.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\Recursividade.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\bin\Debug\net5.0\Recursividade.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\bin\Debug\net5.0\Recursividade.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\bin\Debug\net5.0\Recursividade.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\bin\Debug\net5.0\Recursividade.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\bin\Debug\net5.0\Recursividade.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\bin\Debug\net5.0\ref\Recursividade.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\bin\Debug\net5.0\Recursividade.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\Recursividade.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\ref\Recursividade.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\Recursividade.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Recursão\Recursividade\obj\Debug\net5.0\Recursividade.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/bin/Debug/net6.0/TabelaHash
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/bin/Debug/net6.0/TabelaHash.deps.json
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/bin/Debug/net6.0/TabelaHash.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/bin/Debug/net6.0/TabelaHash.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/bin/Debug/net6.0/ref/TabelaHash.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/bin/Debug/net6.0/TabelaHash.pdb
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/TabelaHash.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/TabelaHash.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/TabelaHash.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/TabelaHash.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/TabelaHash.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/TabelaHash.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/ref/TabelaHash.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/TabelaHash.pdb
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Tabela Hash/TabelaHash/obj/Debug/net6.0/TabelaHash.genruntimeconfig.cache

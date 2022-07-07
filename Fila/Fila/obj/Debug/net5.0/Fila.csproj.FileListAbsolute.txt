@@ -1,0 +1,16 @@
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\bin\Debug\net5.0\Fila.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\bin\Debug\net5.0\Fila.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\bin\Debug\net5.0\Fila.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\bin\Debug\net5.0\Fila.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\bin\Debug\net5.0\Fila.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\bin\Debug\net5.0\ref\Fila.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\bin\Debug\net5.0\Fila.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\Fila.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\Fila.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\Fila.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\Fila.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\Fila.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\Fila.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\ref\Fila.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\Fila.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Fila\Fila\obj\Debug\net5.0\Fila.genruntimeconfig.cache

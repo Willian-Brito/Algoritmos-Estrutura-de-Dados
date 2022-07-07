@@ -1,0 +1,16 @@
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\bin\Debug\net5.0\Arvore.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\bin\Debug\net5.0\Arvore.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\bin\Debug\net5.0\Arvore.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\bin\Debug\net5.0\Arvore.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\bin\Debug\net5.0\Arvore.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\bin\Debug\net5.0\ref\Arvore.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\bin\Debug\net5.0\Arvore.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\Arvore.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\Arvore.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\Arvore.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\Arvore.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\Arvore.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\Arvore.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\ref\Arvore.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\Arvore.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Arvore\Arvore\obj\Debug\net5.0\Arvore.genruntimeconfig.cache

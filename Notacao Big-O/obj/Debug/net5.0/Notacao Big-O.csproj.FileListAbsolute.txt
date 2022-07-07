@@ -1,0 +1,16 @@
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\bin\Debug\net5.0\Notacao Big-O.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\bin\Debug\net5.0\Notacao Big-O.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\bin\Debug\net5.0\Notacao Big-O.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\bin\Debug\net5.0\Notacao Big-O.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\bin\Debug\net5.0\Notacao Big-O.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\bin\Debug\net5.0\ref\Notacao Big-O.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\bin\Debug\net5.0\Notacao Big-O.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\Notacao Big-O.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\Notacao Big-O.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\Notacao Big-O.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\Notacao Big-O.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\Notacao Big-O.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\Notacao Big-O.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\ref\Notacao Big-O.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\Notacao Big-O.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Notacao Big-O\obj\Debug\net5.0\Notacao Big-O.genruntimeconfig.cache

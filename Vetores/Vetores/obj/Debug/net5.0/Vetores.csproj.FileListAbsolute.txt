@@ -1,0 +1,16 @@
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\bin\Debug\net5.0\ref\Vetores.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\bin\Debug\net5.0\Vetores.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\ref\Vetores.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Vetores\Vetores\obj\Debug\net5.0\Vetores.genruntimeconfig.cache

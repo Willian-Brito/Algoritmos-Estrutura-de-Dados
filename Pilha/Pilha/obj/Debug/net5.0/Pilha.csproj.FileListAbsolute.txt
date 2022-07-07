@@ -1,0 +1,16 @@
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\bin\Debug\net5.0\Pilha.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\bin\Debug\net5.0\Pilha.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\bin\Debug\net5.0\Pilha.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\bin\Debug\net5.0\Pilha.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\bin\Debug\net5.0\Pilha.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\bin\Debug\net5.0\ref\Pilha.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\bin\Debug\net5.0\Pilha.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\Pilha.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\Pilha.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\Pilha.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\Pilha.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\Pilha.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\Pilha.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\ref\Pilha.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\Pilha.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Pilha\Pilha\obj\Debug\net5.0\Pilha.genruntimeconfig.cache

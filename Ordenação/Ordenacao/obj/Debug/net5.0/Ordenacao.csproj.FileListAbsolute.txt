@@ -1,0 +1,32 @@
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.exe
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.deps.json
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.runtimeconfig.json
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.runtimeconfig.dev.json
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.dll
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/ref/Ordenacao.dll
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.pdb
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.csproj.AssemblyReference.cache
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.AssemblyInfoInputs.cache
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.AssemblyInfo.cs
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.csproj.CoreCompileInputs.cache
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.dll
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/ref/Ordenacao.dll
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.pdb
+D:/DESKTOP/Desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.genruntimeconfig.cache
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.deps.json
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.runtimeconfig.dev.json
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.dll
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/ref/Ordenacao.dll
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/bin/Debug/net5.0/Ordenacao.pdb
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.dll
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/ref/Ordenacao.dll
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.pdb
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/Debug/net5.0/Ordenacao.genruntimeconfig.cache

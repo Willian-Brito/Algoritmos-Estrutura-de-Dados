@@ -1,0 +1,32 @@
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\bin\Debug\net5.0\Deques.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\bin\Debug\net5.0\Deques.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\bin\Debug\net5.0\Deques.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\bin\Debug\net5.0\Deques.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\bin\Debug\net5.0\Deques.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\bin\Debug\net5.0\ref\Deques.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\bin\Debug\net5.0\Deques.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\Deques.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\Deques.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\Deques.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\Deques.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\Deques.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\Deques.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\ref\Deques.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\Deques.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\C#\Deques\Deques\obj\Debug\net5.0\Deques.genruntimeconfig.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\bin\Debug\net5.0\Deques.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\bin\Debug\net5.0\Deques.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\bin\Debug\net5.0\Deques.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\bin\Debug\net5.0\Deques.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\bin\Debug\net5.0\Deques.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\bin\Debug\net5.0\ref\Deques.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\bin\Debug\net5.0\Deques.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\Deques.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\Deques.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\Deques.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\Deques.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\Deques.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\Deques.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\ref\Deques.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\Deques.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Deque\Deque\obj\Debug\net5.0\Deques.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\bin\Debug\net5.0\Lista.exe
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\bin\Debug\net5.0\Lista.deps.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\bin\Debug\net5.0\Lista.runtimeconfig.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\bin\Debug\net5.0\Lista.runtimeconfig.dev.json
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\bin\Debug\net5.0\Lista.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\bin\Debug\net5.0\ref\Lista.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\bin\Debug\net5.0\Lista.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\Lista.csproj.AssemblyReference.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\Lista.GeneratedMSBuildEditorConfig.editorconfig
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\Lista.AssemblyInfoInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\Lista.AssemblyInfo.cs
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\Lista.csproj.CoreCompileInputs.cache
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\Lista.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\ref\Lista.dll
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\Lista.pdb
+D:\DESKTOP\Desktop\Algoritmos & Estruturas de Dados\1- C#\Lista\Lista\obj\Debug\net5.0\Lista.genruntimeconfig.cache
