@@ -1,0 +1,15 @@
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/bin/Debug/net6.0/Permutacao
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/bin/Debug/net6.0/Permutacao.deps.json
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/bin/Debug/net6.0/Permutacao.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/bin/Debug/net6.0/Permutacao.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/bin/Debug/net6.0/ref/Permutacao.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/bin/Debug/net6.0/Permutacao.pdb
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/Permutacao.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/Permutacao.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/Permutacao.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/Permutacao.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/Permutacao.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/Permutacao.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/ref/Permutacao.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/Permutacao.pdb
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/obj/Debug/net6.0/Permutacao.genruntimeconfig.cache

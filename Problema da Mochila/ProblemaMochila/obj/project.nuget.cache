@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "IpKSh6PPJsA8o73MkiP529biCJAaF/LkYtZfJlUZ9IuSHqj1taghf0aUhqaWzgv9eFT42EkoCUPj7Z95rw5p4Q==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/ProblemaMochila.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/commandlineparser/2.9.1/commandlineparser.2.9.1.nupkg.sha512",
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

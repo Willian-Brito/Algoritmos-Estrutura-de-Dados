@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2Vy7y5W8buStWHaRdRe/uZ0Jl7bTL7BpGJEcE4zHa9oULBt5F1P74DmXYK0h4dIiV+YEMBQP6wxaPWThmnbOyQ==",
+  "success": true,
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Permutação/Permutacao/Permutacao.csproj",
+  "expectedPackageFiles": [
+    "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.2/microsoft.aspnetcore.app.ref.6.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

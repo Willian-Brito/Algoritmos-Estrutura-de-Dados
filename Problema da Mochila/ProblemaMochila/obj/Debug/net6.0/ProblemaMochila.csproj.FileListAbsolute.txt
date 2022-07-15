@@ -1,0 +1,17 @@
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/bin/Debug/net6.0/ProblemaMochila
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/bin/Debug/net6.0/ProblemaMochila.deps.json
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/bin/Debug/net6.0/ProblemaMochila.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/bin/Debug/net6.0/ProblemaMochila.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/bin/Debug/net6.0/ref/ProblemaMochila.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/bin/Debug/net6.0/ProblemaMochila.pdb
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/bin/Debug/net6.0/CommandLine.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.csproj.CopyComplete
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ref/ProblemaMochila.dll
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.pdb
+/home/h1s0k4/Área de trabalho/App/Algoritmos & Estruturas de Dados/1- C#/Problema da Mochila/ProblemaMochila/obj/Debug/net6.0/ProblemaMochila.genruntimeconfig.cache
