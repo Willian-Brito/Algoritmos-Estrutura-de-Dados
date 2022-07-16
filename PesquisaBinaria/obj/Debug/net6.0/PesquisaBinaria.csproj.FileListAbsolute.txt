@@ -1,0 +1,15 @@
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/bin/Debug/net6.0/PesquisaBinaria
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/bin/Debug/net6.0/PesquisaBinaria.deps.json
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/bin/Debug/net6.0/PesquisaBinaria.runtimeconfig.json
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/bin/Debug/net6.0/PesquisaBinaria.dll
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/bin/Debug/net6.0/ref/PesquisaBinaria.dll
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/bin/Debug/net6.0/PesquisaBinaria.pdb
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/PesquisaBinaria.csproj.AssemblyReference.cache
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/PesquisaBinaria.GeneratedMSBuildEditorConfig.editorconfig
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/PesquisaBinaria.AssemblyInfoInputs.cache
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/PesquisaBinaria.AssemblyInfo.cs
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/PesquisaBinaria.csproj.CoreCompileInputs.cache
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/PesquisaBinaria.dll
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/ref/PesquisaBinaria.dll
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/PesquisaBinaria.pdb
+/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/PesquisaBinaria/obj/Debug/net6.0/PesquisaBinaria.genruntimeconfig.cache
