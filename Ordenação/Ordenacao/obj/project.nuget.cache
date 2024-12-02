@@ -1,12 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "k/pum25f0PjnROzcT6v0ye3VAMebMrU9RCTsxJR8MjKZo/yheojGsWyS4NjXM8wiGBjj8GxzFUu+Au9y9FWXpg==",
+  "dgSpecHash": "xOOC0IksX+omnBhl4Dxgl/ts0BDae27hmLMao/iyT5hw5fSv5Ry1354yk0TwKlbsods9VSDE/prFsT+cAkT/sA==",
   "success": true,
-  "projectFilePath": "/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/Ordenacao.csproj",
+  "projectFilePath": "/home/h1s0k4/Área de trabalho/Projetos/Algoritmos-Estrutura-de-Dados/Ordenação/Ordenacao/Ordenacao.csproj",
   "expectedPackageFiles": [
     "/home/h1s0k4/.nuget/packages/microsoft.netcore.app.ref/5.0.0/microsoft.netcore.app.ref.5.0.0.nupkg.sha512",
     "/home/h1s0k4/.nuget/packages/microsoft.aspnetcore.app.ref/5.0.0/microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
-    "/home/h1s0k4/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.14/microsoft.netcore.app.host.linux-x64.5.0.14.nupkg.sha512"
+    "/home/h1s0k4/.nuget/packages/microsoft.netcore.app.host.linux-x64/5.0.17/microsoft.netcore.app.host.linux-x64.5.0.17.nupkg.sha512"
   ],
   "logs": []
 }

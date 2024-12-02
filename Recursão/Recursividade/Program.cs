@@ -96,8 +96,8 @@ namespace Recursividade
 
             if (i == 5) // 1º Regra de fim do ciclo
                 return;
-            else
-                recursao(i); // 2º Regra de mudança de estado da variável de iteração
+            
+            return recursao(i); // 2º Regra de mudança de estado da variável de iteração
         }    
     
         public static int somaSemRecursao(int n)

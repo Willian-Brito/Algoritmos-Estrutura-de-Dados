@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/Ordenacao.csproj",
+      "projectUniqueName": "/home/h1s0k4/Área de trabalho/Projetos/Algoritmos-Estrutura-de-Dados/Ordenação/Ordenacao/Ordenacao.csproj",
       "projectName": "Ordenacao",
-      "projectPath": "/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/Ordenacao.csproj",
+      "projectPath": "/home/h1s0k4/Área de trabalho/Projetos/Algoritmos-Estrutura-de-Dados/Ordenação/Ordenacao/Ordenacao.csproj",
       "packagesPath": "/home/h1s0k4/.nuget/packages/",
-      "outputPath": "/home/h1s0k4/Área de trabalho/desktop/Algoritmos & Estruturas de Dados/1- C#/Ordenação/Ordenacao/obj/",
+      "outputPath": "/home/h1s0k4/Área de trabalho/Projetos/Algoritmos-Estrutura-de-Dados/Ordenação/Ordenacao/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/h1s0k4/.nuget/NuGet/NuGet.Config"
@@ -49,7 +49,8 @@
           "net47",
           "net471",
           "net472",
-          "net48"
+          "net48",
+          "net481"
         ],
         "assetTargetFallback": true,
         "warn": true,
@@ -60,7 +61,7 @@
           },
           {
             "name": "Microsoft.NETCore.App.Host.linux-x64",
-            "version": "[5.0.14, 5.0.14]"
+            "version": "[5.0.17, 5.0.17]"
           },
           {
             "name": "Microsoft.NETCore.App.Ref",
@@ -72,7 +73,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/6.0.102/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/8.0.108/RuntimeIdentifierGraph.json"
       }
     }
   }
