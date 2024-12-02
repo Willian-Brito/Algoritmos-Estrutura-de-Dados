@@ -4,8 +4,6 @@
 
 Este projeto contém implementações feitas **do zero** de várias **estruturas de dados** e **algoritmos fundamentais**, utilizando a linguagem **C#**. Ideal para quem deseja aprender como essas estruturas e algoritmos funcionam internamente, com foco no estudo e na prática.
 
----
-
 ## 📚 Estruturas de Dados
 
 ### 📊 **Vetores**
@@ -80,8 +78,6 @@ Este projeto contém implementações feitas **do zero** de várias **estruturas
   - 🗑️ Remoção de elementos.  
   - 🔍 Busca por chave.
 
----
-
 ## ⚙️ Algoritmos
 
 ### 🌀 **Ordenação**
@@ -109,8 +105,6 @@ Este projeto contém implementações feitas **do zero** de várias **estruturas
 - **Técnicas Implementadas**:
   - ⚔️ **Divisão e Conquista (recursiva)**: Explora todas as combinações possíveis.  
   - 📈 **Programação Dinâmica**: Otimiza cálculos armazenando resultados intermediários.
-
----
 
 ## 📜 Licença
 
